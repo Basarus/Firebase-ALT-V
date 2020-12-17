@@ -11,6 +11,15 @@ This database is good because it is convenient to load objects, arrays, easily u
 
 There is also the possibility of "listening" to documents.
 
+------------
+
+To connect the key.json you need to register on the firebase website https://firebase.google.com, and then get your private key in the settings (see the screenshot below).
+
+
+![Alt text for your video](https://i.imgur.com/eQi3yxc.png)
+
+------------
+
 
 ------------
 
