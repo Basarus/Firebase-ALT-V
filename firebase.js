@@ -87,10 +87,3 @@ export class Firebase{ // FIREBASE
 
 
 }
-
-try {
-
-}
-catch (err) {
-    console.log(err)
-}
