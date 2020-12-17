@@ -3,9 +3,12 @@
 This script is a template for connecting to firebase with the simplest functions
 
 This script is a template for connecting to Firebase
+
 This database can be used as a test, and if you have money, as the main one
 Here are the standard functions that are in this template
+
 This database is good because it is convenient to load objects, arrays, easily update data and get them back.
+
 There is also the possibility of "listening" to documents.
 
 
